@@ -1,0 +1,14 @@
+{
+    "rest-client.environmentVariables": {
+    
+        "$shared": {
+            "route": "WeatherForecast"
+        },
+        "dev": {
+            "host": "https://localhost:7066"
+        },
+        "prod":{
+            "host": "https://localhost:7066"
+        }
+    }
+}
